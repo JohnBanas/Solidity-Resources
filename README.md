@@ -18,7 +18,11 @@
 
 <p>Any links to articles will be posted below. Please place articles into a provided category or if one does not yet exist, please make one. Thanks!<p>
 
-<h4 id="solidity-articles"> </h4>
+<h4 id="solidity-articles">Solidity Articles</h4>
+
+<p>&nbsp</p>
+
+![#](#)
 
 <p>&nbsp</p>
 
@@ -27,12 +31,30 @@
 
 <p>Any links to videos will be posted below. These can simply be informative or tutorial. Please place videos into a provided category or if one does not yet exist, please make one. Thanks!</p>
 
+<h4 id="solidity-videos">Solidity Videos</h4>
+
+<p>&nbsp</p>
+
+![#](#)
+
 <p>&nbsp</p>
 
 <h2 id="details">Websites 💻</h2>
 
 <p>Any links to websites will be posted below. These can be individuals within the web3/blockchain
  space, or company websites. Please place websites into a provided category or if one does not yet exist, please make one. Please also include a brief 2-3 sentence description of the content and its relevance to the topic category. Thanks!</p>
+
+<p>&nbsp</p>
+
+<h3 id="solidity-websites">Solidity Websites</h3>
+
+<p>&nbsp</p>
+
+<h4><a href="https://cryptozombies.io/">Cryptozombies!</a></h4>
+
+<p>&nbsp</p>
+
+<p>Cryptozombies is an amazingly fun, interactive, tutorial website in which you learn about Solidity smart contracts. BY BUILDING A ZOMBIE ARMY!! 🧟🧟‍♀️🧟‍♂️ Okay, sorry for yelling. It is only because I thoroughly enjoyed this website and I think it is a great introduction to the world of Solidity. Go see for yourselves and let me know what you think!</p>
 
 <p>&nbsp</p>
 
