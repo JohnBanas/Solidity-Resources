@@ -55,8 +55,16 @@
 <p>&nbsp</p>
 
 <p>Cryptozombies is an amazingly fun, interactive, tutorial website in which you learn about Solidity smart contracts. BY BUILDING A ZOMBIE ARMY!! 🧟🧟‍♀️🧟‍♂️ Okay, sorry for yelling. It is only because I thoroughly enjoyed this website and I think it is a great introduction to the world of Solidity. Go see for yourselves and let me know what you think!</p>
+ 
+ 
 
 <p>&nbsp</p>
+ 
+<h4><a href="https://github.com/aws-samples/simple-nft-marketplace">AWS NFT Simple Marketplace</a></h4>
+
+<p>&nbsp</p>
+
+<p>A introduction to creating a nft marketplace. The creator warns this code should not be used as production code because it is unfinished. It is a project to give you an example of how you could design such a system.</p> 
 
 <h2 id="author">Author 👨‍💻 </h2>
 <!-- Everyone put your info here
